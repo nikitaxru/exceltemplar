@@ -1,0 +1,26 @@
+# Go build artifacts
+/bin/
+/build/
+/dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace
+vendor/
+.coverage/
+coverage.out
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors/IDE
+.idea/
+.vscode/
+*.swp
