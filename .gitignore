@@ -24,3 +24,7 @@ coverage.out
 .idea/
 .vscode/
 *.swp
+
+# Excel files (templates and outputs)
+*.xlsx
+*.xls
